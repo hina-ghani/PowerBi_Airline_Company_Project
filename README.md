@@ -15,6 +15,7 @@ This case study aims to understand FlyingWhale airline customers' travel pattern
   Power BI.
 
 **Data Sources:**
+
 Data is provided in the form of two CSV files.
 
 ▪ Customer Flight Activity.csv
@@ -22,6 +23,7 @@ Data is provided in the form of two CSV files.
 ▪ Customer Loyalty History.csv
 
 **Data Cleaning:**
+
 Data is provided in the form of two CSV files.
 
 ▪ Customer Flight Activity.csv
